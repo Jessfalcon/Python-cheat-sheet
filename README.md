@@ -13,5 +13,5 @@ Promedio  | mide la tendencia central | promedio = suma_total / len(numeros)
 
 Image:
 
-![](https://github.com/Jessfalcon/Python-cheat-sheet/blob/main/Pythonfoto.png)
+![](https://github.com/Jessfalcon/Python-cheat-sheet/blob/main/Pythonfoto.png?raw=true)
 
