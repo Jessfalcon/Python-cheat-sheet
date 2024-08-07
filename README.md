@@ -1,5 +1,5 @@
 -------------                    
-###codigoPYTHON
+| ###codigoPYTHON |
  -------------                   
 Propiedad  |  Definición |   Ejemplo
 ------------- | -------------   | -------------
