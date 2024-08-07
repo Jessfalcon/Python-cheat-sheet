@@ -1,6 +1,7 @@
 -------------                    
  ###codigoPYTHON
- -------------                   
+ -------------
+ 
 Propiedad  |  Definición |   Ejemplo
 ------------- | -------------   | -------------
 Suma |  Es la suma de dos  o más valores  |  suma = a + b 
